@@ -27,15 +27,6 @@ Module 1 introduces the **fundamental concepts of ethical hacking**, including l
 
 ---
 
-## Tools Used (Beginner-Level)
-- `whois`
-- `nslookup`
-- `theHarvester`
-
-> All tools were used in a **learning-focused and controlled environment**.
-
----
-
 ## Disclaimer
 This repository contains **my personal study notes** and learning exercises.  
 It is **not affiliated with or endorsed by** :EC-Council.  
