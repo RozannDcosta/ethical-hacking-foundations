@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Certification](https://img.shields.io/badge/Certification-CEH-blue)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
-This repository contains my **personal study notes, commands, and hands-on practice** while learning **Module 1 (Introduction to Ethical Hacking)** as part of my cybersecurity learning journey.
+This repository contains my ** study notes** while learning **Module 1 (Introduction to Ethical Hacking)** as part of my cybersecurity learning journey.
 
 ---
 
