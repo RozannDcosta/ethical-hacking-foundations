@@ -29,10 +29,10 @@ Module 1 introduces the **fundamental concepts of ethical hacking**, including l
 
 ---
 
-## Disclaimer  
-It is **not affiliated with or endorsed by** :EC-Council.  
+#### Disclaimer 
+- It is not affiliated with or endorsed by :EC-Council.  
 No proprietary course material, exam questions, or copyrighted content is shared.
 ---
-## Ethical Use Notice
+#### Ethical Use Notice
 This repository is intended **strictly for educational purposes**.  
 All techniques and tools mentioned should be used **responsibly, legally, and ethically**, and only on systems you own or have explicit permission to test.
